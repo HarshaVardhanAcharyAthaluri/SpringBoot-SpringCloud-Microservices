@@ -1,0 +1,1 @@
+<h1>Welcome User: ${user} Email:${email}  Adderess : ${addr}</h1>
