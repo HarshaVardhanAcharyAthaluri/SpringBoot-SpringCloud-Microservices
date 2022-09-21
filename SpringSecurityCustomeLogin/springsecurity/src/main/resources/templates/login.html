@@ -1,0 +1,17 @@
+<h1>Login Page</h1>
+
+<div th:if="${param.error}" style="color:red">
+	Authentication Failed check Username & Password
+</div>
+
+<div th:if="${param.logout}" style="color:darkturquoise">
+	Logout Success
+</div>
+
+<form th:action="@{/login}" method="POST">
+
+UserName: <input type="text" name="username"/><br/><br/>
+Password: <input type="password" name="password"/><br/>
+<input type="submit">
+
+</form>
