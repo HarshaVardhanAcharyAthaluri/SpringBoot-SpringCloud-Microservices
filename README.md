@@ -14,10 +14,11 @@ Ex: http://localhost:8080/swagger-ui.html#/
 - insert into roles values(2,'ROLE_ADMIN');
 
 # Create user
-![Create user ](https://github.com/HarshaVardhanAcharyAthaluri/SpringBoot-SpringCloud-Microservices/blob/main/tokengenerate.PNG)
+![token generate/ user login ](https://github.com/HarshaVardhanAcharyAthaluri/SpringBoot-SpringCloud-Microservices/blob/main/usercreate.PNG)
+
 
 # token generate/ user login
-![token generate/ user login ](https://github.com/HarshaVardhanAcharyAthaluri/SpringBoot-SpringCloud-Microservices/blob/main/usercreate.PNG)
+![Create user ](https://github.com/HarshaVardhanAcharyAthaluri/SpringBoot-SpringCloud-Microservices/blob/main/tokengenerate.PNG)
 
 # access users
 ![access users ](https://github.com/HarshaVardhanAcharyAthaluri/SpringBoot-SpringCloud-Microservices/blob/main/accesusers.PNG)
