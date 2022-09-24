@@ -1,0 +1,10 @@
+version: "3"
+services:
+  spring-boot-docker:
+    image: mydemoimage
+    build: 
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+      - "7070:7070"
+     
